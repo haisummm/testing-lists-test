@@ -8,4 +8,4 @@ jobs:
       uses: actions/checkout@v2.4.2
     - name: Cypress.io
       uses: cypress-io/github-action@v2.9.7
-      with: npm start
+      with: npm run
